@@ -9,7 +9,7 @@ type ButtonProps ={  //click event props in typescrypt
 
 
 
-export const Button = (props:ButtonProps)=>{
+export const Button = (props:ButtonProps)=>{  //props and its type
 
     return(
 
